@@ -1,0 +1,5 @@
+redis:
+  password: {{Org :: PRD/Redis :: PRD/password}}
+
+postgres:
+  password: {{Org :: PRD/Timescale :: app/password}}
